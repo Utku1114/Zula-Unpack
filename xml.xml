@@ -445,8 +445,6 @@
 
  <file url="Game\\wises\\Win32\\3893417221.bnk" crc="161674631" size="2506686" high="0" lite="1"></file>
 
- <file url="Game\\TeamSpeak\\soundbackends\\directsound_win32.dll" crc="2573064089" size="288248" high="0" lite="1"></file>
-
  <file url="Game\\AnzuNativeWin.dll" crc="1120631985" size="523256" high="0" lite="1"></file>
 
  <file url="Game\\BEClient.dll" crc="2131578723" size="4813320" high="0" lite="1"></file>
