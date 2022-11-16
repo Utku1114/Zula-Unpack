@@ -1,0 +1,1460 @@
+
+<update>
+
+ <file url="zula_launcher.exe" crc="3129525133" size="19548232" high="0" lite="1"></file>
+
+ <file url="Driver\\VC_redist.x86.exe" crc="444032679" size="14364440" high="0" lite="1"></file>
+
+ <file url="Driver\\vcredist_x86.exe" crc="3910441465" size="4216840" high="0" lite="1"></file>
+
+ <file url="Driver\\vc_2015_redist_x86.exe" crc="2141163817" size="14157672" high="0" lite="1"></file>
+
+ <file url="Game\\Anzu_Media\\16_9.jpg" crc="376264473" size="521488" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_hvz2.gen" crc="2765157667" size="12592459" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ins00.gen" crc="2117736207" size="740633" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ins1.gen" crc="437836979" size="6465481" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_hvz1.gen" crc="2856502704" size="3320972" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_hng2.gen" crc="732042451" size="17803515" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_hvz0.gen" crc="2286170968" size="5599089" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_hng0.gen" crc="1421872896" size="17471026" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_hng1.gen" crc="3204737709" size="4866345" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_ins2.gen" crc="140658184" size="19913245" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_int00.gen" crc="4069709371" size="705556" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_int1.gen" crc="2167129607" size="9018936" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_kale2.gen" crc="3408467301" size="115418659" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_kale22.gen" crc="2821685721" size="42878007" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_kar1.gen" crc="2081660538" size="3091165" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_funsaha2.gen" crc="3277549554" size="27343355" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_kale11.gen" crc="1542035073" size="6897788" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_kale0.gen" crc="42957922" size="684270" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_kale1.gen" crc="3814702650" size="29505356" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_int2.gen" crc="1865984647" size="29422157" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_funrenk2.gen" crc="94765391" size="14717230" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_funrenk1.gen" crc="1198012640" size="4066916" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_funrenk0.gen" crc="260564325" size="14481062" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ckr1.gen" crc="4211614068" size="40167594" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_ckr2.gen" crc="2319424799" size="50737579" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_cnk0.gen" crc="3807342359" size="30024827" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_cnk1.gen" crc="153493127" size="1494881" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_ckr0.gen" crc="264954961" size="11740800" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_cin1.gen" crc="3073047440" size="2181248" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_cin2.gen" crc="2805009063" size="13468443" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_cin0_lc.gen" crc="2051429167" size="417970" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_kar2.gen" crc="1925189527" size="22460996" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_cnk2.gen" crc="226506668" size="9469244" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_disco2.gen" crc="2555589117" size="30154107" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_fav00.gen" crc="1082164237" size="6079210" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_fav1.gen" crc="2387960337" size="4435928" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_fav2.gen" crc="2631291753" size="16568635" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_disco1.gen" crc="769257231" size="7511948" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_fav0.gen" crc="3476192977" size="32681197" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_dugs1.gen" crc="3876870433" size="14609463" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_dugs2.gen" crc="1492954430" size="34488691" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_dugs0.gen" crc="77766855" size="2054850" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_ker1.gen" crc="3468003213" size="11117182" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_ker2.gen" crc="3943897885" size="35706297" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_kiz0.gen" crc="682709880" size="40608507" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_per1.gen" crc="3339104463" size="2369407" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_per2.gen" crc="3127232362" size="8934955" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_saf0.gen" crc="537508089" size="566873" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_saf1.gen" crc="2054700322" size="24570169" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_per0.gen" crc="2306802777" size="25945690" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_par1.gen" crc="3627884247" size="14962584" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_par2.gen" crc="1897923869" size="43321912" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_okul0.gen" crc="14968270" size="34734582" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_nem2.gen" crc="2350540641" size="2428476" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_saf2.gen" crc="975796082" size="48067620" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_sfr1.gen" crc="2470447121" size="16654366" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_uzg1.gen" crc="78821088" size="9540297" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_uzg2.gen" crc="296401260" size="33613331" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_v1.gen" crc="458417966" size="102119555" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_sfr00.gen" crc="3818576551" size="12984702" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_tah2.gen" crc="2618178329" size="2632980" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_tah0.gen" crc="880338101" size="38167322" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_tah1.gen" crc="4246147723" size="708840" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_sfr2.gen" crc="3068618628" size="53383272" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_cin00.gen" crc="2375792126" size="8355589" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_nem1.gen" crc="3688039571" size="605744" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_mul2.gen" crc="3517180034" size="42567504" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_lmn1.gen" crc="2493469019" size="4971637" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_lmn2.gen" crc="2674378358" size="16576510" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_mardin0.gen" crc="1003508382" size="3023598" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_mardin00.gen" crc="2597610925" size="6249360" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_konak2.gen" crc="387705982" size="41932795" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_kiz2.gen" crc="1844818814" size="12905575" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_konak1.gen" crc="2870354510" size="11493211" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_kiz1.gen" crc="4173081330" size="3105242" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_nem0.gen" crc="187718412" size="26870000" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_mardin1.gen" crc="1457359566" size="11502400" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_mardin2.gen" crc="2534575786" size="40593222" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_mk1.gen" crc="4009883452" size="28829652" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_mk2.gen" crc="615596411" size="41205982" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_mul1.gen" crc="1709662937" size="15003292" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_mardin11.gen" crc="3411115695" size="317657" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_mk0.gen" crc="2117991925" size="1046354" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_misir1.gen" crc="3510425153" size="8970027" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_misir2.gen" crc="4264277152" size="14576600" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_mardin22.gen" crc="975539147" size="1821167" high="1" lite="0"></file>
+
+ <file url="Game\\data\\texture_cin0.gen" crc="1201993851" size="33565858" high="0" lite="0"></file>
+
+ <file url="Game\\data\\texture_ch6.gen" crc="811218365" size="48162868" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch5.gen" crc="4245008548" size="12642867" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn4.gen" crc="414991661" size="7759420" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn40.gen" crc="1363339386" size="16136823" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn41.gen" crc="2444103074" size="17093599" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn42.gen" crc="2381179474" size="6081648" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn35.gen" crc="1912718845" size="14381041" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn33.gen" crc="3992850153" size="17909245" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn34.gen" crc="747341218" size="21835564" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn32.gen" crc="3299169091" size="24163016" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn31.gen" crc="2555947644" size="23161466" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn43.gen" crc="2804286150" size="29138141" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn45.gen" crc="3463931048" size="8754015" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn50.gen" crc="282885110" size="25461894" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn51.gen" crc="4128078124" size="14647248" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn52.gen" crc="2734396716" size="12898237" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn44.gen" crc="3271795629" size="7155264" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn49.gen" crc="4101677772" size="21651032" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn47.gen" crc="3719696911" size="12737446" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn48.gen" crc="3130548158" size="7820345" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn46.gen" crc="4095667428" size="11654453" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn53.gen" crc="2835756536" size="17915998" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn30.gen" crc="2843019431" size="3926513" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn29.gen" crc="2135550131" size="1594566" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn14.gen" crc="1889501024" size="9365708" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn15.gen" crc="1083310193" size="9899805" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn17.gen" crc="1804357434" size="19923178" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn19.gen" crc="2565852382" size="12044161" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn13.gen" crc="1775011340" size="37933744" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn11.gen" crc="2341603352" size="10741314" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn12.gen" crc="776202316" size="11126235" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn10.gen" crc="3199658601" size="15078873" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn3.gen" crc="2877612688" size="6176578" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn2.gen" crc="3644876344" size="49258434" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn21.gen" crc="1931881570" size="14281521" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn26.gen" crc="439230165" size="18112343" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn27.gen" crc="3432374456" size="8290275" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn28.gen" crc="3910952048" size="4565207" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn20.gen" crc="1081719909" size="55945" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn25.gen" crc="3848386459" size="11428387" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn23.gen" crc="2350220481" size="8153828" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn24.gen" crc="3085541644" size="16907388" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn22.gen" crc="1869780241" size="13958573" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_v2_1.gen" crc="682873421" size="125074546" high="1" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn54.gen" crc="3071910946" size="15759915" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn56.gen" crc="466201150" size="17675498" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_lat2.gen" crc="1787122903" size="1410829" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_tr.gen" crc="3167982459" size="17771307" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_tr1.gen" crc="3678977677" size="10087737" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_tr2.gen" crc="2002890313" size="3134686" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_lat.gen" crc="4033907281" size="11985094" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_en.gen" crc="1261517666" size="11976727" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_en2.gen" crc="3474978153" size="1375731" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_br2.gen" crc="3960135540" size="1415657" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spray_br.gen" crc="3005757388" size="11836894" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_br0.gen" crc="2378479606" size="49381034" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_br1.gen" crc="1355970980" size="17033405" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch2.gen" crc="1438890579" size="46463726" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch3.gen" crc="4104175092" size="2621762" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch4.gen" crc="1506107061" size="5218014" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_br00.gen" crc="1669534429" size="38508105" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch1.gen" crc="1974734261" size="11946957" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch0.gen" crc="3742009021" size="15760394" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_ch00.gen" crc="1333832380" size="36090635" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_br2.gen" crc="834225480" size="58870986" high="1" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn55.gen" crc="3105244638" size="22357284" high="0" lite="1"></file>
+
+ <file url="Game\\data\\spc_lobby.gen" crc="851484077" size="2936432" high="0" lite="1"></file>
+
+ <file url="Game\\data\\shader_fs.gen" crc="1626666233" size="514892" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn60.gen" crc="3094369441" size="20960756" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn61.gen" crc="898607566" size="13827319" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn62.gen" crc="1793316593" size="13938507" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn63.gen" crc="170605432" size="16017723" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn6.gen" crc="3772160324" size="10516293" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn58.gen" crc="1222698306" size="19798666" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn59.gen" crc="1251908417" size="28226491" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn57.gen" crc="3702393904" size="15163561" high="0" lite="1"></file>
+
+ <file url="Game\\data\\shader_fx.gen" crc="2676523154" size="3820909" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn64.gen" crc="1845199385" size="2300418" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn66.gen" crc="436033915" size="13746717" high="0" lite="1"></file>
+
+ <file url="Game\\data\\pd_anim.gen" crc="3174446628" size="1582140" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ramazan.gen" crc="1731870631" size="851066" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ramazan_yd.gen" crc="1383164836" size="755306" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn65.gen" crc="3368790056" size="12353988" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_wr.gen" crc="4089530908" size="38197617" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn68.gen" crc="1399394871" size="29809183" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn8.gen" crc="948534487" size="9002427" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn67.gen" crc="1967586464" size="18244124" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn.gen" crc="864243589" size="65569056" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_v2_2.gen" crc="2306150819" size="125344546" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp0.gen" crc="1593306013" size="51321228" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\3991942870.bnk" crc="682142573" size="5434677" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\99901009.bnk" crc="707433386" size="4993540" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\99901010.bnk" crc="494565345" size="3252108" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\99901022.bnk" crc="56625212" size="2827681" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\3893417221.bnk" crc="228503280" size="4529759" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\3311862193.bnk" crc="1211200291" size="1687469" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\3761286874.bnk" crc="4127836920" size="6729748" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\2376466361.bnk" crc="4186474828" size="6101390" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\2032421640.bnk" crc="183992689" size="20041503" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\99901031.bnk" crc="3514404150" size="6455984" high="0" lite="1"></file>
+
+ <file url="Game\\32.ico" crc="289576133" size="103610" high="0" lite="1"></file>
+
+ <file url="Game\\AkSoundEngineDLL.dll" crc="1630272305" size="5860344" high="0" lite="1"></file>
+
+ <file url="Game\\ANet.dll" crc="2893201087" size="167984" high="0" lite="1"></file>
+
+ <file url="Game\\ANet.key" crc="964546465" size="80" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\99910009.bnk" crc="707433386" size="4993540" high="0" lite="1"></file>
+
+ <file url="Game\\ackphysX.dll" crc="2528394182" size="257528" high="0" lite="1"></file>
+
+ <file url="Game\\acknex.wdf" crc="259117395" size="151257" high="0" lite="1"></file>
+
+ <file url="Game\\acknexlog.dll" crc="1051873090" size="515064" high="0" lite="1"></file>
+
+ <file url="Game\\acknex.dll" crc="2826202724" size="6818840" high="0" lite="1"></file>
+
+ <file url="Game\\anzu.dll" crc="1103539220" size="2650616" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\1551306167.bnk" crc="1637947472" size="2256610" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\1229948536.bnk" crc="2928079279" size="22970498" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\1229948536.bnk" crc="1282842" size="19259487" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\1355168291.bnk" crc="1173633572" size="4321" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\1551306167.bnk" crc="2990130984" size="2088139" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\2032421640.bnk" crc="3060918026" size="11199176" high="0" lite="1"></file>
+
+ <file url="Game\\TeamSpeak\\ts3_client.dll" crc="560361024" size="144888" high="0" lite="1"></file>
+
+ <file url="Game\\TeamSpeak\\ts3client.dll" crc="1723197771" size="2834936" high="0" lite="1"></file>
+
+ <file url="Game\\TeamSpeak\\ts3server.dll" crc="221523051" size="2352120" high="0" lite="1"></file>
+
+ <file url="Game\\TeamSpeak\\soundbackends\\windowsaudiosession_win32.dll" crc="971794064" size="125432" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\1355168291.bnk" crc="2731171467" size="4318" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\2376466361.bnk" crc="407992922" size="3729652" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\3761286874.bnk" crc="3039862047" size="5624916" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\99901022.bnk" crc="56625212" size="2827681" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\99901031.bnk" crc="3514404150" size="6455984" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\99910009.bnk" crc="707433386" size="4993540" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\3311862193.bnk" crc="630213384" size="2836730" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\99901010.bnk" crc="494565345" size="3252108" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\3991942870.bnk" crc="1704968597" size="4492231" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\99901009.bnk" crc="707433386" size="4993540" high="0" lite="1"></file>
+
+ <file url="Game\\wises\\Win32\\3893417221.bnk" crc="161674631" size="2506686" high="0" lite="1"></file>
+
+ <file url="Game\\TeamSpeak\\soundbackends\\directsound_win32.dll" crc="2573064089" size="288248" high="0" lite="1"></file>
+
+ <file url="Game\\AnzuNativeWin.dll" crc="1120631985" size="523256" high="0" lite="1"></file>
+
+ <file url="Game\\BEClient.dll" crc="2131578723" size="4813320" high="0" lite="1"></file>
+
+ <file url="Game\\PhysXCore.dll" crc="234880876" size="3567456" high="0" lite="1"></file>
+
+ <file url="Game\\PhysXDevice.dll" crc="3134746621" size="74232" high="0" lite="1"></file>
+
+ <file url="Game\\PhysXLoader.dll" crc="2897528271" size="64352" high="0" lite="1"></file>
+
+ <file url="Game\\Rajdhani SemiBold-EditedV2.ttf" crc="964868049" size="234236" high="0" lite="1"></file>
+
+ <file url="Game\\PhysXCooking.dll" crc="3943806590" size="383840" high="0" lite="1"></file>
+
+ <file url="Game\\performance_test.exe" crc="1938179803" size="389552" high="0" lite="1"></file>
+
+ <file url="Game\\performance_test.wdl" crc="163156360" size="534" high="0" lite="1"></file>
+
+ <file url="Game\\OpenAL32.dll" crc="720199707" size="111096" high="0" lite="1"></file>
+
+ <file url="Game\\NxCharacter.dll" crc="343442417" size="107872" high="0" lite="1"></file>
+
+ <file url="Game\\Rajdhani SemiBold.ttf" crc="1186051792" size="363500" high="0" lite="1"></file>
+
+ <file url="Game\\ssleay32.dll" crc="1260755020" size="282616" high="0" lite="1"></file>
+
+ <file url="Game\\ZulaDumpSender.exe" crc="4081138595" size="8160248" high="0" lite="1"></file>
+
+ <file url="Game\\zula_BE.exe" crc="458511130" size="878368" high="0" lite="1"></file>
+
+ <file url="Game\\zula_repair.exe" crc="2498405567" size="7849512" high="0" lite="1"></file>
+
+ <file url="Game\\Rajdhani.ttf" crc="660893616" size="372568" high="0" lite="1"></file>
+
+ <file url="Game\\zula.wdl" crc="748792196" size="22408" high="0" lite="1"></file>
+
+ <file url="Game\\wWiseWrapper.dll" crc="1983567978" size="1135096" high="0" lite="1"></file>
+
+ <file url="Game\\zula.exe" crc="1173496790" size="19717176" high="0" lite="1"></file>
+
+ <file url="Game\\steam_api.dll" crc="3663830105" size="217168" high="0" lite="1"></file>
+
+ <file url="Game\\BattleEye_Client.dll" crc="584775957" size="77304" high="0" lite="1"></file>
+
+ <file url="Game\\NvidiaSet.dll" crc="1623441007" size="114168" high="0" lite="1"></file>
+
+ <file url="Game\\miniini.dll" crc="916714279" size="24056" high="0" lite="1"></file>
+
+ <file url="Game\\cudart32_41_22.dll" crc="3607148523" size="438152" high="0" lite="1"></file>
+
+ <file url="Game\\d3dcompiler_43.dll" crc="1375834747" size="2106216" high="0" lite="1"></file>
+
+ <file url="Game\\d3dx9_30.dll" crc="2974228540" size="2388176" high="0" lite="1"></file>
+
+ <file url="Game\\d3dx9_42.dll" crc="600949013" size="1892184" high="0" lite="1"></file>
+
+ <file url="Game\\cudart32_30_9.dll" crc="1344007884" size="290408" high="0" lite="1"></file>
+
+ <file url="Game\\ca.pem" crc="3467739787" size="29189" high="0" lite="1"></file>
+
+ <file url="Game\\config.log" crc="1773132576" size="19" high="0" lite="1"></file>
+
+ <file url="Game\\ca.cer" crc="3467739787" size="29189" high="0" lite="1"></file>
+
+ <file url="Game\\navmesh.js" crc="2172233286" size="151642" high="0" lite="1"></file>
+
+ <file url="Game\\d3dx9_43.dll" crc="1131719183" size="1998168" high="0" lite="1"></file>
+
+ <file url="Game\\Jansson.dll" crc="1321368268" size="44024" high="0" lite="1"></file>
+
+ <file url="Game\\libssl-3.dll" crc="2281636851" size="1034744" high="0" lite="1"></file>
+
+ <file url="Game\\MBSteam.dll" crc="1813732344" size="92152" high="0" lite="1"></file>
+
+ <file url="Game\\MBUtilities.dll" crc="467409481" size="4513760" high="0" lite="1"></file>
+
+ <file url="Game\\fsaa.dll" crc="2879983572" size="107000" high="0" lite="1"></file>
+
+ <file url="Game\\libeay32.dll" crc="2631712123" size="1188344" high="0" lite="1"></file>
+
+ <file url="Game\\libcrypto-3.dll" crc="2574934957" size="4275704" high="0" lite="1"></file>
+
+ <file url="Game\\libcurl.dll" crc="1447353830" size="736760" high="0" lite="1"></file>
+
+ <file url="Game\\jpge.dll" crc="370030133" size="44024" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_v2_3.gen" crc="2730520351" size="124931483" high="1" lite="1"></file>
+
+ <file url="Game\\data\\workshop.gen" crc="1993987265" size="67469" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_tx4.gen" crc="816810482" size="14940119" high="1" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp34.gen" crc="3158239773" size="17526355" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp35.gen" crc="1397938070" size="69682066" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp36.gen" crc="2726451528" size="18848709" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp38.gen" crc="444859030" size="46520176" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp33.gen" crc="144721828" size="1191465" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp31.gen" crc="2954938362" size="76556525" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp32.gen" crc="2662237488" size="10182709" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp30.gen" crc="312228372" size="60000331" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp3.gen" crc="1260282947" size="56744245" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp39.gen" crc="937599979" size="44751238" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp40.gen" crc="992844319" size="14010161" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp45.gen" crc="363674854" size="36527424" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp46.gen" crc="4209601214" size="1290767" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp48.gen" crc="452268987" size="6939863" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp4.gen" crc="733787743" size="52975532" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp44.gen" crc="1795434898" size="15395284" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp42.gen" crc="1315236627" size="11068075" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp43.gen" crc="828147988" size="46861637" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp41.gen" crc="1560608304" size="44115646" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp49.gen" crc="2570827964" size="38280185" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp29.gen" crc="3780339445" size="16545520" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp26.gen" crc="3000391832" size="53815789" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp13.gen" crc="1029674760" size="56647575" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp14.gen" crc="1111878676" size="40594084" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp15.gen" crc="655779946" size="35673438" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp16.gen" crc="549404561" size="45848028" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp12.gen" crc="2214593062" size="49123102" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp10.gen" crc="3186224191" size="49774781" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp11.gen" crc="1414610372" size="50822010" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp1.gen" crc="3491739050" size="46523086" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp27.gen" crc="2531896024" size="53611601" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp17.gen" crc="2460514915" size="65686038" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp19.gen" crc="3876413411" size="41571711" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp23.gen" crc="1641122973" size="43008294" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp24.gen" crc="1281961760" size="49132835" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp25.gen" crc="1518209572" size="45564904" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp18.gen" crc="3803857319" size="58197357" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp22.gen" crc="1148006053" size="15629207" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp20.gen" crc="3230270158" size="57861863" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp21.gen" crc="649627441" size="53413318" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp2.gen" crc="3557567315" size="56057910" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_v0.gen" crc="540242003" size="7050103" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp5.gen" crc="2405322923" size="49971386" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp52.gen" crc="2768389151" size="96722059" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_yg1.gen" crc="1666769616" size="9520110" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_yg2.gen" crc="1838520391" size="33297845" high="1" lite="1"></file>
+
+ <file url="Game\\data\\thfix.gen" crc="3046171790" size="22387078" high="0" lite="0"></file>
+
+ <file url="Game\\data\\update_ad.gen" crc="3905833844" size="2726304" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_yg00.gen" crc="2533103632" size="153681" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp9.gen" crc="4224334905" size="53043383" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp_glb.gen" crc="1527616462" size="1153562" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp8.gen" crc="962982601" size="51477524" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp72.gen" crc="1976001495" size="48238006" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_ad_en.gen" crc="2976503898" size="3712885" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_lite1.gen" crc="572764207" size="11387180" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_tx1.gen" crc="264311777" size="10336944" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_tx2.gen" crc="883584737" size="10322175" high="1" lite="1"></file>
+
+ <file url="Game\\data\\update_tx3.gen" crc="2539452500" size="4410837" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_lite.gen" crc="2914689900" size="86792507" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_tx0.gen" crc="322500558" size="21153618" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_mdl1.gen" crc="3581039220" size="1578016" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_model3.gen" crc="3321184982" size="1139" high="0" lite="1"></file>
+
+ <file url="Game\\data\\update_map.gen" crc="528161219" size="1523810" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp51.gen" crc="464792678" size="21458217" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp71.gen" crc="2478879" size="229164" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp7.gen" crc="1332349221" size="51820565" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp57.gen" crc="2192700569" size="16880591" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp58.gen" crc="3987181491" size="22414536" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp59.gen" crc="3271519394" size="44399382" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp6.gen" crc="2764669444" size="52714786" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp56.gen" crc="3569879698" size="21584107" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp54.gen" crc="1108879997" size="14643461" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp55.gen" crc="1436667285" size="41967039" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp53.gen" crc="3203764873" size="32692320" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp70.gen" crc="95665052" size="29769556" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp60.gen" crc="2705444150" size="65997032" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp62.gen" crc="476946147" size="82999311" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp67.gen" crc="1132748230" size="125373571" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp68.gen" crc="274178302" size="34406599" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp69.gen" crc="2637826943" size="20015396" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp61.gen" crc="769365747" size="64797747" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp66.gen" crc="3279773468" size="80703551" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp64.gen" crc="2849726968" size="23525680" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp65.gen" crc="3098602677" size="36470861" high="0" lite="1"></file>
+
+ <file url="Game\\data\\texture_wp63.gen" crc="2521252963" size="28409742" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc9.gen" crc="692060489" size="1691948" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vn18.gen" crc="4002876787" size="37835334" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc7.gen" crc="4190919717" size="549182" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\cef_100_percent.pak" crc="797546695" size="652401" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\cef_200_percent.pak" crc="4096403270" size="758058" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\cef_extensions.pak" crc="632075095" size="3303083" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\chrome_elf.dll" crc="2189688848" size="442360" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\cef.pak" crc="2456729694" size="4125002" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\swiftshader\\libEGL.dll" crc="1545817618" size="114680" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\swiftshader\\libGLESv2.dll" crc="2314715239" size="1990648" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\zh-TW.pak" crc="2041601435" size="172368" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\zh-TW.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\zh-CN.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\d3dcompiler_43.dll" crc="400537949" size="2108920" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\devtools_resources.pak" crc="1967063332" size="5378220" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\MBChromium.dll" crc="1618128439" size="350200" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\natives_blob.bin" crc="3533225850" size="213514" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\snapshot_blob.bin" crc="1096919530" size="1058864" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\d3dcompiler_47.dll" crc="2976270841" size="3654136" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\libGLESv2.dll" crc="3511360260" size="3158520" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\libcef.dll" crc="1906748393" size="70456312" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\libEGL.dll" crc="4030176688" size="87544" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\icudtl.dat" crc="2092237867" size="10197152" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\v8_context_snapshot.bin" crc="3417955443" size="1364504" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\zh-CN.pak" crc="1466107032" size="171958" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\vi.pak" crc="3518630401" size="229446" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sv.pak" crc="3705006983" size="186205" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sv.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sw.pak" crc="1384297522" size="190193" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sw.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sr.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sl.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sr.pak" crc="3609414100" size="308655" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sl.pak" crc="2272098476" size="196906" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\vi.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ta.pak" crc="636125581" size="480270" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\te.pak" crc="2539551868" size="455567" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\tr.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\uk.pak" crc="3014689513" size="323325" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\uk.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ta.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\tr.pak" crc="3614186018" size="201126" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\th.pak" crc="3892338987" size="391686" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\th.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\te.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sk.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\data\\2019.gen" crc="1157133752" size="1622082" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass.gen" crc="2237289647" size="2071731" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ch_cust_model.gen" crc="3035205662" size="5291370" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ch_cust_texture.gen" crc="944826798" size="25712106" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ch_cust_texture2.gen" crc="3865887646" size="55636968" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ch_cust_texture3.gen" crc="2906587225" size="34676714" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_vehicles2.gen" crc="2950926058" size="2260704" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_panel1.gen" crc="3276636877" size="6432218" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_vehicles.gen" crc="3232689960" size="5253899" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_low_weap4.gen" crc="3529744689" size="8347813" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_low_weap3.gen" crc="1229818061" size="21318733" high="2" lite="1"></file>
+
+ <file url="Game\\data\\ch_cust_texture4.gen" crc="4155551975" size="29569760" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc8.gen" crc="4029974276" size="12115412" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lang_lat.gen" crc="3403407635" size="749671" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lang_tr.gen" crc="1184109311" size="750348" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lobby_en.gen" crc="3981634541" size="894807" high="0" lite="1"></file>
+
+ <file url="Game\\data\\ch_cust_texture5.gen" crc="3819768188" size="2675821" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lang_en.gen" crc="2249760577" size="739737" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lang_az.gen" crc="756317067" size="758717" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lang_brsl.gen" crc="4148359297" size="745365" high="0" lite="1"></file>
+
+ <file url="Game\\data\\files_v0.gen" crc="4005213277" size="5490971" high="0" lite="1"></file>
+
+ <file url="Game\\data\\anzu.gen" crc="2307478019" size="784029" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_low_weap2.gen" crc="2812011865" size="29111401" high="2" lite="1"></file>
+
+ <file url="Game\\data\\br_low_weap.gen" crc="2856379729" size="116225801" high="2" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_en2.gen" crc="2767964028" size="4497472" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_glb.gen" crc="2786807955" size="2061072" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_lat.gen" crc="2263359939" size="1933307" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_lat2.gen" crc="2025975992" size="4462557" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_en.gen" crc="3895817537" size="6691224" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_br.gen" crc="4180488974" size="1981211" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_br2.gen" crc="2420489860" size="4474760" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass1.gen" crc="2163477890" size="26444" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_low_weap1.gen" crc="1953973068" size="9180992" high="0" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_tr.gen" crc="1657196216" size="7011488" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_itemmdl.gen" crc="1170572445" size="32193921" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_kosma.gen" crc="3253702303" size="556017" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_low_map.gen" crc="3841171441" size="13597791" high="2" lite="1"></file>
+
+ <file url="Game\\data\\br_low_model.gen" crc="1385910124" size="15707968" high="2" lite="1"></file>
+
+ <file url="Game\\data\\battlepass_tr2.gen" crc="1565177927" size="4487305" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_js2.gen" crc="3975802891" size="819" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_js.gen" crc="3273222757" size="15151" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_js1.gen" crc="955445793" size="2091" high="0" lite="1"></file>
+
+ <file url="Game\\data\\br_itemmdl1.gen" crc="1425607247" size="1369733" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lod_char1.gen" crc="2798572894" size="16428941" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\sk.pak" crc="2450392580" size="213496" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ru.pak" crc="2166510074" size="313876" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\en-US.pak" crc="2702099741" size="170200" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\en-US.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\es-419.pak" crc="19984170" size="202726" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\es-419.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\en-GB.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\el.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\en-GB.pak" crc="1450621644" size="169273" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\el.pak" crc="1316279635" size="364294" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\de.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\es.pak" crc="790616724" size="206133" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\et.pak" crc="2103115673" size="183673" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fi.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fil.pak" crc="488666592" size="209294" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fil.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\es.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fi.pak" crc="872219686" size="190506" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fa.pak" crc="2149182872" size="290340" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fa.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\et.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fr.pak" crc="41500894" size="220417" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\de.pak" crc="1803677468" size="204541" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\da.pak" crc="2855186714" size="187704" high="0" lite="1"></file>
+
+ <file url="Game\\BattlEye\\Install_BattlEye.bat" crc="95033809" size="56" high="0" lite="1"></file>
+
+ <file url="Game\\BattlEye\\Uninstall_BattlEye.bat" crc="999587514" size="56" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\am.pak" crc="4254713977" size="288929" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\am.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\BattlEye\\EULA.txt" crc="1812758597" size="2726" high="0" lite="1"></file>
+
+ <file url="Game\\BattlEye\\BEService.exe" crc="1195912506" size="6283712" high="0" lite="1"></file>
+
+ <file url="Game\\BattlEye\\BEService_x64.exe" crc="1849419850" size="8885112" high="0" lite="1"></file>
+
+ <file url="Game\\BattlEye\\BELauncher.ini" crc="2573870447" size="89" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\da.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ar.pak" crc="1391360784" size="283709" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\bg.pak" crc="4037211562" size="330617" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ca.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\cs.pak" crc="3573845406" size="209141" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\cs.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ar.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ca.pak" crc="1848823888" size="205620" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\bn.pak" crc="3378970347" size="432077" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\bn.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\bg.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ru.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\fr.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\gu.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ms.pak" crc="3061648666" size="188696" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ms.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\nb.pak" crc="3407244238" size="185196" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\nb.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\mr.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ml.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\mr.pak" crc="688346266" size="410702" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ml.pak" crc="3036550543" size="513529" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\lv.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\nl.pak" crc="2728138696" size="194122" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\pl.pak" crc="4087195566" size="204377" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\pt-PT.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ro.pak" crc="670684885" size="207487" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ro.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\nl.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\pt-PT.pak" crc="1206568184" size="203825" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\pt-BR.pak" crc="1199806909" size="199937" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\pt-BR.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\pl.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\gu.pak" crc="1617044491" size="409318" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\lv.pak" crc="2036666207" size="211447" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\lt.pak" crc="266200426" size="211581" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\hr.pak" crc="2416725579" size="196770" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\hr.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\hu.pak" crc="252880838" size="216033" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\hu.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\hi.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\he.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\hi.pak" crc="1854325826" size="416697" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\he.pak" crc="2609588172" size="242050" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\lt.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\id.pak" crc="608278813" size="181938" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\it.pak" crc="337634778" size="199247" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\kn.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ko.pak" crc="2263727911" size="208142" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ko.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\id.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\kn.pak" crc="2347478808" size="473010" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ja.pak" crc="3526748297" size="246654" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\ja.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\Chromium\\locales\\it.pak.info" crc="3623033064" size="387862" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lod_char2.gen" crc="454237516" size="22227947" high="0" lite="1"></file>
+
+ <file url="Game\\data\\curve_en.gen" crc="109303854" size="1729401" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lod_char4.gen" crc="4076689722" size="13186751" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en.gen" crc="1468412897" size="10060107" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en10.gen" crc="1038924901" size="11225690" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en11.gen" crc="1526066274" size="14829160" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en12.gen" crc="1902805420" size="10286782" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_curve_glb.gen" crc="1814956111" size="36407" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_br_en.gen" crc="422918793" size="2011245" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_br_lat.gen" crc="1527426001" size="79498" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_br_br.gen" crc="494293687" size="72629" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl7.gen" crc="2992372921" size="11286948" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en13.gen" crc="2504126185" size="13445516" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en15.gen" crc="4283733990" size="18897821" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en3.gen" crc="2280577443" size="20948603" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en4.gen" crc="3961750376" size="34160776" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en5.gen" crc="3730590664" size="2161983" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en14.gen" crc="605214581" size="11584368" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en2.gen" crc="114730365" size="11243359" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en17.gen" crc="1811871172" size="9341323" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en18.gen" crc="3607342085" size="8416464" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en16.gen" crc="2495205586" size="11639175" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en6.gen" crc="1775505031" size="7349855" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl6.gen" crc="3794737186" size="13331465" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl4.gen" crc="2722759160" size="18656136" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_v2.gen" crc="1253776339" size="10507993" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_v3.gen" crc="2246916838" size="4952421" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_v4.gen" crc="3120378319" size="6704861" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_v5.gen" crc="1553028642" size="11679361" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_v1.gen" crc="3130571231" size="2656300" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_binary_23.bin" crc="3488564719" size="28770261" high="0" lite="1"></file>
+
+ <file url="Game\\data\\oc_v0.gen" crc="965814361" size="15201445" high="0" lite="1"></file>
+
+ <file url="Game\\data\\nolobby1.gen" crc="2127810786" size="6621727" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl5.gen" crc="3083396221" size="13018810" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lod_char3.gen" crc="2898790710" size="10458087" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_az.gen" crc="730863415" size="2949164" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl.gen" crc="1095887457" size="62814901" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl2.gen" crc="2014659945" size="15866050" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_brsl3.gen" crc="3790707154" size="9517461" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_an.gen" crc="904117400" size="478219" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_br2.gen" crc="913085956" size="1378754" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_br.gen" crc="905208297" size="22924736" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_br1.gen" crc="1796110243" size="7466959" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_az2.gen" crc="3860876495" size="307594" high="0" lite="1"></file>
+
+ <file url="Game\\data\\nolobby.gen" crc="2715956720" size="55721567" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en7.gen" crc="1547990667" size="12957469" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en9.gen" crc="953927287" size="7785421" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc.gen" crc="3682362528" size="26202483" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc10.gen" crc="588905261" size="2561914" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc11.gen" crc="3322519891" size="1386472" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc12.gen" crc="3535326959" size="8247174" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system_tr.gen" crc="3255685" size="2491488" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system_en1.gen" crc="4254074296" size="3880809" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system_lat.gen" crc="4030295250" size="4577285" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system_en.gen" crc="2380458296" size="2036498" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system_brsl.gen" crc="1917653577" size="4657258" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc13.gen" crc="754913555" size="349477" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc15.gen" crc="1217981567" size="8845149" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc4.gen" crc="2461039345" size="5905041" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc5.gen" crc="1506707249" size="9574145" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc6.gen" crc="2574405921" size="12711682" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc14.gen" crc="797650144" size="5820203" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc3.gen" crc="3976731864" size="8495049" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc17.gen" crc="1628873565" size="12429627" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc2.gen" crc="3003435969" size="11736210" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_vc16.gen" crc="531098210" size="11891107" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_en8.gen" crc="346610196" size="12116555" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system9.gen" crc="3923523599" size="200119" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system7.gen" crc="3528165788" size="7886600" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat4.gen" crc="2503555331" size="18856611" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat5.gen" crc="1505028459" size="13001966" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat6.gen" crc="395858534" size="13553968" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat7.gen" crc="1393490142" size="11272916" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat3.gen" crc="3095080365" size="9538202" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat.gen" crc="3303082749" size="70455769" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_lat2.gen" crc="3836316903" size="15095941" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_global.gen" crc="3553671426" size="173398" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system8.gen" crc="2831423748" size="3988272" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_logclear.gen" crc="779940730" size="4450" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system.gen" crc="1839820662" size="4111552" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system4.gen" crc="324516242" size="10635262" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system5.gen" crc="3180261764" size="7052834" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system6.gen" crc="855681087" size="8771329" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_nor_tr2.gen" crc="3152316679" size="13084898" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system3.gen" crc="2657114609" size="11138872" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system10.gen" crc="4274604045" size="10252125" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system2.gen" crc="780206" size="5629566" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_system1.gen" crc="510109567" size="32210661" high="0" lite="1"></file>
+
+ <file url="Game\\data\\new_hb.gen" crc="49665663" size="1008698" high="0" lite="1"></file>
+
+ <file url="Game\\data\\panel_ac.gen" crc="11562323" size="5466" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_yg0.gen" crc="3588639103" size="26541975" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_ckr0.gen" crc="1117828628" size="30448698" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_ckr00.gen" crc="2251682046" size="332098" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_cnk0.gen" crc="4241219955" size="29306316" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_disco0.gen" crc="1230991672" size="6444089" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_cin0_lc.gen" crc="2203155685" size="581743" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_cin0.gen" crc="554729395" size="28559512" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_cin00.gen" crc="290765672" size="12687915" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_ch2.gen" crc="743620473" size="15340251" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_ch1.gen" crc="401009433" size="17777289" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_dugs0.gen" crc="1489339933" size="574791" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_fav00.gen" crc="2014260107" size="116754" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_ins0.gen" crc="1662902934" size="8928112" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_ins00.gen" crc="4177459821" size="34232" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_int0.gen" crc="939436019" size="19260201" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_yg00.gen" crc="729312776" size="57891" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_hvz0.gen" crc="2051648948" size="24360092" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_funsaha.gen" crc="1362685428" size="8029600" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_hng0.gen" crc="266963467" size="6917691" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_funrenk0.gen" crc="1901979943" size="3527934" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_int00.gen" crc="262535709" size="18998" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_ch0.gen" crc="31362771" size="38762284" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_br000.gen" crc="2887716740" size="465195" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v10.gen" crc="730225610" size="12709009" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v2.gen" crc="2078537854" size="11999278" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v3.gen" crc="1338250164" size="15188530" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v4.gen" crc="3362793568" size="13555439" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v1.gen" crc="2082824658" size="20296893" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lod_uzg2.gen" crc="2849972740" size="2782891" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v0.gen" crc="1666382799" size="29687932" high="0" lite="1"></file>
+
+ <file url="Game\\data\\lod_uzg1.gen" crc="2145719857" size="2210514" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_br1.gen" crc="3353121318" size="4088343" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v5.gen" crc="1964793550" size="12421946" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v7.gen" crc="3867866312" size="15813793" high="0" lite="1"></file>
+
+ <file url="Game\\data\\mb_tr.gen" crc="506674940" size="399712" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_br0.gen" crc="2690684464" size="137546873" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_br00.gen" crc="1699621816" size="7086189" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v6.gen" crc="1435379123" size="16954736" high="0" lite="1"></file>
+
+ <file url="Game\\data\\mb_ph.gen" crc="2717469545" size="6189863" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v9.gen" crc="3795108596" size="10289422" high="0" lite="1"></file>
+
+ <file url="Game\\data\\mb_en.gen" crc="506674940" size="399712" high="0" lite="1"></file>
+
+ <file url="Game\\data\\maps_v8.gen" crc="2337016215" size="1825071" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_kale0.gen" crc="3478908751" size="38484636" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_fav0.gen" crc="1878790836" size="20199538" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_kar0.gen" crc="2503197394" size="21095953" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp15.gen" crc="2950660148" size="4009643" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp16.gen" crc="1512451246" size="7463546" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp17.gen" crc="3181204491" size="9750898" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp18.gen" crc="757674528" size="16750437" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp14.gen" crc="3032614863" size="18831601" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp12.gen" crc="822503908" size="24455373" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp13.gen" crc="599790269" size="21671499" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp11.gen" crc="783637877" size="6203399" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp10.gen" crc="2793797729" size="3435864" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_kale00.gen" crc="1037749875" size="4961208" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_wp20.gen" crc="1961871289" size="18934418" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp6.gen" crc="1107584436" size="19425038" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp7.gen" crc="2793757197" size="11315631" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp9.gen" crc="1182351442" size="17078169" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp2.gen" crc="1118691213" size="25640083" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp5.gen" crc="3639052605" size="4243909" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp3.gen" crc="546242199" size="21911015" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp4.gen" crc="3663670153" size="41291926" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp21.gen" crc="3243522267" size="4744669" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp1.gen" crc="1342097188" size="37652799" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp19.gen" crc="140978821" size="17399217" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_v0.gen" crc="2637256972" size="89705030" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_lobby.gen" crc="1876267140" size="8049970" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_mardin0.gen" crc="3259411433" size="39894824" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_mardin00.gen" crc="4019694563" size="2981249" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_met00.gen" crc="843451374" size="529270" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_lmn0.gen" crc="2154805560" size="9634688" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_kiz0.gen" crc="2354673749" size="32113968" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_konak0.gen" crc="2592656268" size="14134036" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_wp0.gen" crc="1200930620" size="70204399" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_ker0.gen" crc="500664022" size="21407638" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_misir0.gen" crc="444278225" size="5594711" high="0" lite="0"></file>
+
+ <file url="Game\\data\\panel_vn16.gen" crc="3193842784" size="54473803" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_nem0.gen" crc="2905774166" size="9598972" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_sfr00.gen" crc="2872092701" size="11598062" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_tah0.gen" crc="2380626201" size="33452573" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_mul0.gen" crc="1447417652" size="23126863" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_sfr0.gen" crc="1355858526" size="24125631" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_uzg0.gen" crc="2796478333" size="33482771" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_par0.gen" crc="4004880565" size="22127777" high="0" lite="0"></file>
+
+ <file url="Game\\data\\model_okul0.gen" crc="4247944776" size="14864087" high="0" lite="1"></file>
+
+ <file url="Game\\data\\model_per0.gen" crc="1493463640" size="13680395" high="0" lite="0"></file>
+
+ <file url="Workshop\\Source\\M5_alpha.png" crc="796341100" size="30451" high="0" lite="1"></file>
+
+ <file url="Workshop\\zula_workshop.exe" crc="1160008267" size="8200592" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\M5.png" crc="2762162556" size="1098798" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\P90.png" crc="1647498011" size="1251353" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\P90_alpha.png" crc="3041096716" size="327696" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\X5_alpha.png" crc="924525090" size="47772" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\X5.png" crc="585456763" size="384206" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Huntsman_alpha.png" crc="1257997689" size="16304" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Huntsman.png" crc="3413981826" size="611299" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Awp.png" crc="2963895034" size="1132807" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Glock18.png" crc="3683534105" size="1144866" high="0" lite="1"></file>
+
+ <file url="Workshop\\Screenshot\\readme.txt" crc="1258410340" size="54" high="0" lite="1"></file>
+
+ <file url="Screenshots\\_benioku.txt" crc="4213220852" size="76" high="0" lite="1"></file>
+
+ <file url="curl.exe" crc="4226771161" size="350712" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Glock18_alpha.png" crc="2532140741" size="21837" high="0" lite="1"></file>
+
+ <file url="Workshop\\Screenshot\\_benioku.txt" crc="4213220852" size="76" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Aug_alpha.png" crc="437119516" size="288263" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\AUG.png" crc="3388256844" size="1161847" high="0" lite="1"></file>
+
+ <file url="Workshop\\Source\\Awp_alpha.png" crc="2234859286" size="210749" high="0" lite="1"></file>
+
+ <file url="Screenshots\\readme.txt" crc="1258410340" size="54" high="0" lite="1"><gen>1208</gen></file>
+
+</update>
